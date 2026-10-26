@@ -1,23 +1,10 @@
 <div align="center">
 
-# 🎙️ Memora
-
+# Memora
 ### AI Voice to Calendar & Tasks
-
 **30 seconds of voice. Zero forgotten tasks.**
-
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%E2%89%A53.5-0175C2?logo=dart&logoColor=white)
-![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-6366F1)
-![AI](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?logo=google&logoColor=white)
-![State](https://img.shields.io/badge/State-Riverpod-10B981)
-![DB](https://img.shields.io/badge/DB-Isar-F59E0B)
-![Status](https://img.shields.io/badge/Status-MVP%20in%20development-F59E0B)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 </div>
 
----
 
 ## 📑 Table of Contents
 
