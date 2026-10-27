@@ -34,7 +34,6 @@
 
 > 💡 All diagrams are written in [Mermaid](https://mermaid.js.org/) and render natively on GitHub.
 
----
 
 ## ✨ What is Memora?
 
