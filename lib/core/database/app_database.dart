@@ -387,7 +387,6 @@ final songByIdProvider = FutureProvider.family<Song?, int>((ref, songId) {
   return db.getSongById(songId);
 });
 
-/// Reactive stream of a single [Song] by its ID.
 final songStreamByIdProvider =
     StreamProvider.family<Song?, int>((ref, songId) {
   final db = ref.watch(appDatabaseProvider);
